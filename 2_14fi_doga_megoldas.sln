@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_14fi_doga_megoldas", "2_14fi_doga_megoldas\2_14fi_doga_megoldas.csproj", "{D200783F-452B-41AE-9BF1-536972EA9EE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D200783F-452B-41AE-9BF1-536972EA9EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D200783F-452B-41AE-9BF1-536972EA9EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D200783F-452B-41AE-9BF1-536972EA9EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D200783F-452B-41AE-9BF1-536972EA9EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD9A06BA-CC39-44CB-B1E3-1AEDAE11A3C2}
+	EndGlobalSection
+EndGlobal
